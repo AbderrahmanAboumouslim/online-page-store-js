@@ -1,3 +1,7 @@
+# Inspiration from:
+
+[figma](<https://www.figma.com/file/tPX712vUVXbsz5qSF0sYei/Food-delivery-app-Ui-kit-(Community)?node-id=513%3A21>)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
